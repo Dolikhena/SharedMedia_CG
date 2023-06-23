@@ -1,0 +1,9 @@
+## Interface: 100100
+## Title: |cFFFFFF00<WA Soundpack>|r |cff69ccf0by Collie|r
+## IconTexture: 136154
+## Notes: Voice synthesis by elevenlabs.io, brain rot by the community.
+
+libs\LibStub\LibStub.lua
+libs\CallbackHandler-1.0\CallbackHandler-1.0.lua
+embeds.xml
+Soundpaths.lua 
